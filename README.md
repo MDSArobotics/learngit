@@ -1,2 +1,2 @@
 # learngit
-Reop for learning basic Git operations
+Repo for learning basic Git operations
